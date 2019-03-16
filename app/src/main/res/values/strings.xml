@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ACTV test_11thMar19</string>
+
+    <string-array name="city">
+        <item>Jamshedpur</item>
+        <item>Dhanbad</item>
+        <item>Ranchi</item>
+        <item>Bokaro</item>
+        <item>Deoghar</item>
+        <item>Phusro</item>
+        <item>Hajaribagh</item>
+        <item>Giridih</item>
+        <item>Ramgarh</item>
+        <item>Medininagar</item>
+        <item>Chirkunda</item>
+        <item>Jumri Tilaiya</item>
+        <item>Sahibgangh</item>
+        <item>Saunda</item>
+        <item>Chaibasa</item>
+        <item>Lohardaga</item>
+        <item>Chakradhapur</item>
+        <item>Madhupur</item>
+        <item>Gumla</item>
+        <item>Chatra</item>
+        <item>Godda</item>
+        <item>Gumia</item>
+        <item>Dumka</item>
+        <item>Garwa</item>
+        <item>Pakaur</item>
+    </string-array>
+
+</resources>
